@@ -6,8 +6,5 @@ import sun.misc.Contended;
 public class GitController {
     public static void main(String[] args) {
         System.out.println("is");
-        System.out.println("is");
-        System.out.println("is");
-        System.out.println("ab");
     }
 }
