@@ -9,5 +9,7 @@ public class GitController {
         System.out.println("is2");
         System.out.println("is3");
         System.out.println("is4");
+        System.out.println("is5");
+        System.out.println("is6");
     }
 }
